@@ -10,4 +10,7 @@ public class Foo {
     String sortedBy;
     int notSortedBy;
 
+    public static void main(String[] args) {
+        System.out.println(123);
+    }
 }

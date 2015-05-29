@@ -16,3 +16,6 @@ Objects.firstNonNull(2,null);
 Optional.of(2).or(3);
 
 
+public static void main(String[] args) {
+
+}

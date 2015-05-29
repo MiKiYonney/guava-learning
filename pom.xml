@@ -17,6 +17,7 @@
             <groupId>org.codehaus.groovy</groupId>
             <artifactId>groovy-all</artifactId>
             <version>1.7.0</version>
+            <type>jar</type>
         </dependency>
     </dependencies>
 
